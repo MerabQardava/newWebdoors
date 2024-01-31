@@ -187,6 +187,7 @@
     #services span{
         width:60vw;
         text-align: center;
+        min-width: 250px;
     }
 
     #services h3{
